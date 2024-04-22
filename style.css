@@ -34,9 +34,10 @@ a {
     /* margin-bottom: 100px; */
     padding-bottom: 50px;
 }
-/* .mg-first-page {
-     height: 10px !important; 
-} */
+.img-first-page:hover {
+    transform: scale(1.1);
+    transition: 0.6s;
+}
 /* btn order */
 .btnOrder {
     background-color: greenyellow;
